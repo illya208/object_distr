@@ -1,0 +1,20 @@
+﻿  Source.cpp
+c:\users\illya\source\repos\obj_distr\obj_distr\source.cpp(56): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\illya\source\repos\obj_distr\obj_distr\source.cpp(57): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\illya\source\repos\obj_distr\obj_distr\source.cpp(85): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\illya\source\repos\obj_distr\obj_distr\source.cpp(96): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\illya\source\repos\obj_distr\obj_distr\source.cpp(97): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\illya\source\repos\obj_distr\obj_distr\source.cpp(98): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\illya\source\repos\obj_distr\obj_distr\source.cpp(99): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\illya\source\repos\obj_distr\obj_distr\source.cpp(100): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\illya\source\repos\obj_distr\obj_distr\source.cpp(101): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\illya\source\repos\obj_distr\obj_distr\source.cpp(159): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\illya\source\repos\obj_distr\obj_distr\source.cpp(167): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\illya\source\repos\obj_distr\obj_distr\source.cpp(168): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\illya\source\repos\obj_distr\obj_distr\source.cpp(169): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\illya\source\repos\obj_distr\obj_distr\source.cpp(170): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\illya\source\repos\obj_distr\obj_distr\source.cpp(190): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\illya\source\repos\obj_distr\obj_distr\source.cpp(193): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\illya\source\repos\obj_distr\obj_distr\source.cpp(199): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\illya\source\repos\obj_distr\obj_distr\source.cpp(202): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  obj_distr.vcxproj -> C:\Users\illya\source\repos\obj_distr\Debug\obj_distr.exe
